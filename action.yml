@@ -4,7 +4,7 @@ author: jamesgeorge007
 
 inputs:
   GH_USERNAME:
-    description: 'Your GitHub username'
+    description: 'herndev'
     default: ${{ github.repository_owner }}
     required: false
   COMMIT_MSG:
